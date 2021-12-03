@@ -1,2 +1,2 @@
-# calculator-by-tkinte
-calculator-by-tkinte
+# calculator-by-tkinter
+calculator-by-tkinter
